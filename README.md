@@ -19,7 +19,7 @@ cd football_player_identification
 python3 -m venv venv && source venv/bin/activate
 
 # For Windows (run this in Command Prompt or PowerShell):
-# python -m venv venv && venv\Scripts\activate
+ python -m venv venv && venv\Scripts\activate
 
 # ✅ Install all dependencies
 pip install torch torchvision opencv-python numpy matplotlib
